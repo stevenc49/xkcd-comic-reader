@@ -1,0 +1,12 @@
+838da4a36de01f2cf4b0b9c76d033066 4d9edb57c3baec54576fe3e34751daf3 ffffffffffffffffffffffffffffffff 238 /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app
+000000004e1fc8bc0000000000004fff 3dc8ac42bb9baa2b8a9b43b208695d1f ffffffffffffffffffffffffffffffff 2321 /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/DetailView.nib
+000000004e1fc8bc00000000000069bc 3befb8a75711f46fd91f15fc4aeb4136 ffffffffffffffffffffffffffffffff 3413 /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/MainWindow.nib
+00000000000000000000000000000000 45781c6142f04eeecf3e1f49b288208a ffffffffffffffffffffffffffffffff 8 /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/PkgInfo
+00000000000000000000000000000000 45781c6142f04eeecf3e1f49b288208a ffffffffffffffffffffffffffffffff 786 /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/Info.plist
+00000000000000000000000000000000 a94bfa21515df39a156f8453e67bb694 ffffffffffffffffffffffffffffffff 102 /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app.dSYM
+2696af0baca8a99433d11f5336274a6e a33c1f4d2dc2e8fc94e5f0da19a64062 ffffffffffffffffffffffffffffffff 26788 /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/xkcd
+bfb8be4e7e01f1020d9c6e34c594c19c b4128121108ac54d913d7aaf788e0b5b ffffffffffffffffffffffffffffffff 50668 /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/DetailViewController.o
+bfb8be4e7e01f1020d9c6e34c594dc97 36151a86cfd4d26babd8e491b6af4fc1 ffffffffffffffffffffffffffffffff 46836 /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/RootViewController.o
+bfb8be4e7d482c0a0d9c6e34c594c228 dd8f4a4b3bd28f0a8e3531d108b98123 ffffffffffffffffffffffffffffffff 54468 /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/xkcdAppDelegate.o
+bfb8be4e3357e4b60d9c6e34c594c44e 791e7ee7063174568701b0bcf0c9be1a ffffffffffffffffffffffffffffffff 6296 /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/main.o
+000000000352689b00000000000004e4 bfb8be4e334c51250d9c6e34c594cb63 ffffffffffffffffffffffffffffffff 15814064 /var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-ejpbuiawqiqzoldaexrqfoafpexy/xkcd_Prefix.pch.gch

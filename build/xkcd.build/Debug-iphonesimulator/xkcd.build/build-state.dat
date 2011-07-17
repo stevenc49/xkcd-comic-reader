@@ -1,0 +1,362 @@
+Txkcd
+v7
+r0
+t332500969.660402
+cCheck dependencies
+cProcessInfoPlistFile /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/Info.plist xkcd-Info.plist
+cCompileXIB /Users/steve/dev/projects/xkcd/MainWindow.xib
+cCompileXIB /Users/steve/dev/projects/xkcd/DetailView.xib
+cProcessPCH /var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-ejpbuiawqiqzoldaexrqfoafpexy/xkcd_Prefix.pch.gch xkcd_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/main.o /Users/steve/dev/projects/xkcd/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/xkcdAppDelegate.o /Users/steve/dev/projects/xkcd/Classes/xkcdAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/RootViewController.o /Users/steve/dev/projects/xkcd/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/DetailViewController.o /Users/steve/dev/projects/xkcd/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/xkcd normal i386
+cGenerateDSYMFile /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app.dSYM /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/xkcd
+cTouch /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/steve/dev/projects/xkcd/Classes/DetailViewController.h
+c000000004E2150340000000000000294
+t1310806068
+s660
+i<UIKit/UIKit.h>
+
+N/Users/steve/dev/projects/xkcd/Classes/DetailViewController.m
+c000000004E2156CB00000000000011AA
+t1310807755
+s4522
+i"DetailViewController.h"
+i"RootViewController.h"
+
+N/Users/steve/dev/projects/xkcd/Classes/RootViewController.h
+c000000004E1FC8BC000000000000018C
+t1310705852
+s396
+i<UIKit/UIKit.h>
+
+N/Users/steve/dev/projects/xkcd/Classes/RootViewController.m
+c000000004E21581C00000000000010C2
+t1310808092
+s4290
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/steve/dev/projects/xkcd/Classes/xkcdAppDelegate.h
+c000000004E1FC8BC000000000000030A
+t1310705852
+s778
+i<UIKit/UIKit.h>
+
+N/Users/steve/dev/projects/xkcd/Classes/xkcdAppDelegate.m
+c000000004E1FC8BC00000000000007D6
+t1310705852
+s2006
+i"xkcdAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/steve/dev/projects/xkcd/DetailView.xib
+c000000004E1FC8BC0000000000004FFF
+t1310705852
+s20479
+
+N/Users/steve/dev/projects/xkcd/MainWindow.xib
+c000000004E1FC8BC00000000000069BC
+t1310705852
+s27068
+
+N/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app
+t1310808094
+s238
+
+N/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app.dSYM
+t1310808094
+s102
+
+N/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/DetailView.nib
+t1310705880
+s2321
+
+N/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/Info.plist
+t1310705880
+s786
+
+N/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/MainWindow.nib
+t1310705880
+s3413
+
+N/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/PkgInfo
+t1310705880
+s8
+
+N/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/xkcd
+t1310808094
+s27856
+
+N/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/DetailViewController.o
+t1310807757
+s55328
+
+N/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/RootViewController.o
+t1310808094
+s46216
+
+N/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/main.o
+t1310705881
+s6296
+
+N/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/xkcd.LinkFileList
+c000000004E1FC8D800000000000001D9
+t1310705880
+s473
+
+N/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/xkcdAppDelegate.o
+t1310806072
+s53808
+
+N/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/StaticAnalyzer/normal/i386/DetailViewController.plist
+t1310807925
+s276
+
+N/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/StaticAnalyzer/normal/i386/RootViewController.plist
+t1310807925
+s276
+
+N/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/StaticAnalyzer/normal/i386/main.plist
+t1310807925
+s276
+
+N/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/StaticAnalyzer/normal/i386/xkcdAppDelegate.plist
+t1310807925
+s276
+
+N/Users/steve/dev/projects/xkcd/main.m
+c000000004E1FC8BC0000000000000168
+t1310705852
+s360
+i<UIKit/UIKit.h>
+
+N/Users/steve/dev/projects/xkcd/xkcd_Prefix.pch
+c000000004E1FC8BC000000000000013A
+t1310705852
+s314
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-atwaoekswbbcqsgdtqfelpuvbnat/xkcd_Prefix.pch.pth
+t1310807925
+s3350700
+
+N/var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-ejpbuiawqiqzoldaexrqfoafpexy/xkcd_Prefix.pch.gch
+t1310705881
+s15814064
+
+Nxkcd-Info.plist
+c000000004E1FC8BC00000000000004D6
+t1310705852
+s1238
+
+CAnalyze /Users/steve/dev/projects/xkcd/Classes/DetailViewController.m
+s332500725.315111
+e332500725.427607
+r1
+xAnalyze
+x/Users/steve/dev/projects/xkcd/Classes/DetailViewController.m
+lSLF07#2@69"Analyze /Users/steve/dev/projects/xkcd/Classes/DetailViewController.m332500725#332500725#0(0"0(0#0#61"/Users/steve/dev/projects/xkcd/Classes/DetailViewController.m8615379552#1815"    cd /Users/steve/dev/projects/xkcd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-generated-files.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-own-target-headers.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-all-target-headers.hmap -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-project-headers.hmap -F/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator -I/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/include -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources/i386 -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources -include /var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-atwaoekswbbcqsgdtqfelpuvbnat/xkcd_Prefix.pch --analyze /Users/steve/dev/projects/xkcd/Classes/DetailViewController.m -o /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/StaticAnalyzer/normal/i386/DetailViewController.plist0#
+
+CAnalyze /Users/steve/dev/projects/xkcd/Classes/RootViewController.m
+s332500725.313211
+e332500725.429224
+r1
+xAnalyze
+x/Users/steve/dev/projects/xkcd/Classes/RootViewController.m
+lSLF07#2@67"Analyze /Users/steve/dev/projects/xkcd/Classes/RootViewController.m332500725#332500725#0(0"0(0#0#59"/Users/steve/dev/projects/xkcd/Classes/RootViewController.m8615440128#1811"    cd /Users/steve/dev/projects/xkcd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-generated-files.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-own-target-headers.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-all-target-headers.hmap -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-project-headers.hmap -F/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator -I/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/include -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources/i386 -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources -include /var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-atwaoekswbbcqsgdtqfelpuvbnat/xkcd_Prefix.pch --analyze /Users/steve/dev/projects/xkcd/Classes/RootViewController.m -o /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/StaticAnalyzer/normal/i386/RootViewController.plist0#
+
+CAnalyze /Users/steve/dev/projects/xkcd/Classes/xkcdAppDelegate.m
+s332500725.311982
+e332500725.430066
+r1
+xAnalyze
+x/Users/steve/dev/projects/xkcd/Classes/xkcdAppDelegate.m
+lSLF07#2@64"Analyze /Users/steve/dev/projects/xkcd/Classes/xkcdAppDelegate.m332500725#332500725#0(0"0(0#0#56"/Users/steve/dev/projects/xkcd/Classes/xkcdAppDelegate.m8615577984#1805"    cd /Users/steve/dev/projects/xkcd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-generated-files.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-own-target-headers.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-all-target-headers.hmap -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-project-headers.hmap -F/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator -I/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/include -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources/i386 -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources -include /var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-atwaoekswbbcqsgdtqfelpuvbnat/xkcd_Prefix.pch --analyze /Users/steve/dev/projects/xkcd/Classes/xkcdAppDelegate.m -o /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/StaticAnalyzer/normal/i386/xkcdAppDelegate.plist0#
+
+CAnalyze /Users/steve/dev/projects/xkcd/main.m
+s332500725.310444
+e332500725.428394
+r1
+xAnalyze
+x/Users/steve/dev/projects/xkcd/main.m
+lSLF07#2@45"Analyze /Users/steve/dev/projects/xkcd/main.m332500725#332500725#0(0"0(0#0#37"/Users/steve/dev/projects/xkcd/main.m8615668384#1775"    cd /Users/steve/dev/projects/xkcd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-generated-files.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-own-target-headers.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-all-target-headers.hmap -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-project-headers.hmap -F/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator -I/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/include -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources/i386 -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources -include /var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-atwaoekswbbcqsgdtqfelpuvbnat/xkcd_Prefix.pch --analyze /Users/steve/dev/projects/xkcd/main.m -o /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332500969#332500969#0(0"0(0#1#0"8614632256#0"0#
+
+CCompileC build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/DetailViewController.o /Users/steve/dev/projects/xkcd/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332500557.105054
+e332500557.203517
+r1
+xCompileC
+xbuild/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/DetailViewController.o
+x/Users/steve/dev/projects/xkcd/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/steve/dev/projects/xkcd/Classes/DetailViewController.m332500557#332500557#0(0"0(0#0#61"/Users/steve/dev/projects/xkcd/Classes/DetailViewController.m8614214656#1806"    cd /Users/steve/dev/projects/xkcd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-generated-files.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-own-target-headers.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-all-target-headers.hmap -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-project-headers.hmap -F/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator -I/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/include -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources/i386 -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources -include /var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-ejpbuiawqiqzoldaexrqfoafpexy/xkcd_Prefix.pch -c /Users/steve/dev/projects/xkcd/Classes/DetailViewController.m -o /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/RootViewController.o /Users/steve/dev/projects/xkcd/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332500894.317226
+e332500894.433819
+r1
+xCompileC
+xbuild/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/RootViewController.o
+x/Users/steve/dev/projects/xkcd/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/steve/dev/projects/xkcd/Classes/RootViewController.m332500894#332500894#0(0"0(0#0#59"/Users/steve/dev/projects/xkcd/Classes/RootViewController.m8612354336#1802"    cd /Users/steve/dev/projects/xkcd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-generated-files.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-own-target-headers.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-all-target-headers.hmap -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-project-headers.hmap -F/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator -I/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/include -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources/i386 -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources -include /var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-ejpbuiawqiqzoldaexrqfoafpexy/xkcd_Prefix.pch -c /Users/steve/dev/projects/xkcd/Classes/RootViewController.m -o /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/main.o /Users/steve/dev/projects/xkcd/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332398681.706826
+e332398681.857170
+r1
+xCompileC
+xbuild/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/main.o
+x/Users/steve/dev/projects/xkcd/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/steve/dev/projects/xkcd/main.m332398681#332398681#0(0"0(0#0#37"/Users/steve/dev/projects/xkcd/main.m8603631520#1766"    cd /Users/steve/dev/projects/xkcd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-generated-files.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-own-target-headers.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-all-target-headers.hmap -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-project-headers.hmap -F/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator -I/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/include -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources/i386 -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources -include /var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-ejpbuiawqiqzoldaexrqfoafpexy/xkcd_Prefix.pch -c /Users/steve/dev/projects/xkcd/main.m -o /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/main.o0#
+
+CCompileC build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/xkcdAppDelegate.o /Users/steve/dev/projects/xkcd/Classes/xkcdAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332498872.239911
+e332498872.308179
+r1
+xCompileC
+xbuild/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/xkcdAppDelegate.o
+x/Users/steve/dev/projects/xkcd/Classes/xkcdAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/steve/dev/projects/xkcd/Classes/xkcdAppDelegate.m332498872#332498872#0(0"0(0#0#56"/Users/steve/dev/projects/xkcd/Classes/xkcdAppDelegate.m8613085280#1796"    cd /Users/steve/dev/projects/xkcd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-generated-files.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-own-target-headers.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-all-target-headers.hmap -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-project-headers.hmap -F/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator -I/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/include -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources/i386 -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources -include /var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-ejpbuiawqiqzoldaexrqfoafpexy/xkcd_Prefix.pch -c /Users/steve/dev/projects/xkcd/Classes/xkcdAppDelegate.m -o /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/xkcdAppDelegate.o0#
+
+CCompileXIB /Users/steve/dev/projects/xkcd/DetailView.xib
+s332398680.217188
+e332398680.754222
+r1
+xCompileXIB
+x/Users/steve/dev/projects/xkcd/DetailView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB DetailView.xib332398680#332398680#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#45"/Users/steve/dev/projects/xkcd/DetailView.xib8601267872#543"    cd /Users/steve/dev/projects/xkcd    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/DetailView.nib /Users/steve/dev/projects/xkcd/DetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/steve/dev/projects/xkcd/MainWindow.xib
+s332398680.215849
+e332398680.749048
+r1
+xCompileXIB
+x/Users/steve/dev/projects/xkcd/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib332398680#332398680#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#45"/Users/steve/dev/projects/xkcd/MainWindow.xib8603393984#543"    cd /Users/steve/dev/projects/xkcd    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/MainWindow.nib /Users/steve/dev/projects/xkcd/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app.dSYM /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/xkcd
+s332500894.478624
+e332500894.539132
+r1
+xGenerateDSYMFile
+x/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app.dSYM
+x/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/xkcd
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/xkcd.app.dSYM build/Debug-iphonesimulator/xkcd.app/xkcd332500894#332500894#0(0"0(0#0#72"/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/xkcd8616455200#350"    cd /Users/steve/dev/projects/xkcd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/xkcd -o /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app.dSYM0#
+
+CLd /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/xkcd normal i386
+s332500894.433934
+e332500894.478534
+r1
+xLd
+x/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/xkcd
+xnormal
+xi386
+lSLF07#2@77"Link /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/xkcd332500894#332500894#0(0"0(0#0#0"8617148160#845"    cd /Users/steve/dev/projects/xkcd    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator -F/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator -filelist /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/Objects-normal/i386/xkcd.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/xkcd0#
+
+CProcessInfoPlistFile /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/Info.plist xkcd-Info.plist
+s332398680.179042
+e332398680.215745
+r1
+xProcessInfoPlistFile
+x/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/Info.plist
+xxkcd-Info.plist
+lSLF07#2@23"Process xkcd-Info.plist332398680#332398680#0(0"0(0#0#46"/Users/steve/dev/projects/xkcd/xkcd-Info.plist28147922879840376#446"    cd /Users/steve/dev/projects/xkcd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility xkcd-Info.plist -genpkginfo /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app/Info.plist0#
+
+CProcessPCH /var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-atwaoekswbbcqsgdtqfelpuvbnat/xkcd_Prefix.pch.pth xkcd_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s332500724.613562
+e332500725.309548
+r1
+xProcessPCH
+x/var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-atwaoekswbbcqsgdtqfelpuvbnat/xkcd_Prefix.pch.pth
+xxkcd_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@26"Precompile xkcd_Prefix.pch332500724#332500725#0(0"0(0#0#46"/Users/steve/dev/projects/xkcd/xkcd_Prefix.pch8616219680#1660"    cd /Users/steve/dev/projects/xkcd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-generated-files.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-own-target-headers.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-all-target-headers.hmap -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-project-headers.hmap -F/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator -I/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/include -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources/i386 -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources -c /Users/steve/dev/projects/xkcd/xkcd_Prefix.pch -o /var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-atwaoekswbbcqsgdtqfelpuvbnat/xkcd_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-ejpbuiawqiqzoldaexrqfoafpexy/xkcd_Prefix.pch.gch xkcd_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332398680.754350
+e332398681.706518
+r1
+xProcessPCH
+x/var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-ejpbuiawqiqzoldaexrqfoafpexy/xkcd_Prefix.pch.gch
+xxkcd_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile xkcd_Prefix.pch332398680#332398681#0(0"0(0#0#46"/Users/steve/dev/projects/xkcd/xkcd_Prefix.pch8603853408#1669"    cd /Users/steve/dev/projects/xkcd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-generated-files.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-own-target-headers.hmap -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-all-target-headers.hmap -iquote /Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/xkcd-project-headers.hmap -F/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator -I/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/include -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources/i386 -I/Users/steve/dev/projects/xkcd/build/xkcd.build/Debug-iphonesimulator/xkcd.build/DerivedSources -c /Users/steve/dev/projects/xkcd/xkcd_Prefix.pch -o /var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-ejpbuiawqiqzoldaexrqfoafpexy/xkcd_Prefix.pch.gch0#
+
+CTouch /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app
+s332500894.539399
+e332500894.541164
+r1
+xTouch
+x/Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app
+lSLF07#2@73"Touch /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app332500894#332500894#0(0"0(0#0#0"8615702688#259"    cd /Users/steve/dev/projects/xkcd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/steve/dev/projects/xkcd/build/Debug-iphonesimulator/xkcd.app0#
+

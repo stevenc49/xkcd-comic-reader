@@ -1,0 +1,16 @@
+c0421a158d4f7d716ef135c25ce940ec 862f8f0c6995350e308f36d10c58c1fa ffffffffffffffffffffffffffffffff 53216 /Users/steve/dev/projects/xkcd/build/xkcd.build/Release-iphoneos/xkcd.build/Objects-normal/armv7/DetailViewController.o
+c0421a158d4f73a66ef135c25ce94184 ecb1e85f139252b7d7db9efe324ed949 ffffffffffffffffffffffffffffffff 45024 /Users/steve/dev/projects/xkcd/build/xkcd.build/Release-iphoneos/xkcd.build/Objects-normal/armv7/RootViewController.o
+c0421a158e3403116ef135c25ce95f3b ee710d9d8acff315c64b4e289b26bece ffffffffffffffffffffffffffffffff 52444 /Users/steve/dev/projects/xkcd/build/xkcd.build/Release-iphoneos/xkcd.build/Objects-normal/armv7/xkcdAppDelegate.o
+c0421a15c01553256ef135c25ce95997 b3fcb31ccedc5a31c6b6794e5a7521b2 ffffffffffffffffffffffffffffffff 6472 /Users/steve/dev/projects/xkcd/build/xkcd.build/Release-iphoneos/xkcd.build/Objects-normal/armv7/main.o
+00000000000000000000000000000000 f00a6a92cac08eac888a690d42ae478f ffffffffffffffffffffffffffffffff 102 /Users/steve/dev/projects/xkcd/build/Release-iphoneos/xkcd.app.dSYM
+89ca54c4be302e8b9806f6d37ff7031f b2a565debcedeb215f6ee55e9a739f77 ffffffffffffffffffffffffffffffff 374 /Users/steve/dev/projects/xkcd/build/Release-iphoneos/xkcd.app
+3713d9d2701bb8a4e7a99f49ff84bbab c519a0a8d50b7bcdd209239f0c03eb95 ffffffffffffffffffffffffffffffff 33920 /Users/steve/dev/projects/xkcd/build/Release-iphoneos/xkcd.app/xkcd
+00000000035e450800000000000004e4 c0421a15c00ef63a6ef135c25ce956ba ffffffffffffffffffffffffffffffff 10438556 /var/folders/J4/J4Pn7FvjEbyxdCdzftkrOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/xkcd_Prefix-embynrlqpprunaaqydytegevogob/xkcd_Prefix.pch.gch
+000000004e1fc8bc0000000000004fff 29ff35763ff520634e1a40943343527c ffffffffffffffffffffffffffffffff 2321 /Users/steve/dev/projects/xkcd/build/Release-iphoneos/xkcd.app/DetailView.nib
+000000004e1fc8bc00000000000069bc 410d26c3856562366856886cfe18bfea ffffffffffffffffffffffffffffffff 3413 /Users/steve/dev/projects/xkcd/build/Release-iphoneos/xkcd.app/MainWindow.nib
+00000000000000000000000000000000 7b4d8b3a3163f054c37fd1b646df7c4b ffffffffffffffffffffffffffffffff 8 /Users/steve/dev/projects/xkcd/build/Release-iphoneos/xkcd.app/PkgInfo
+00000000000000000000000000000000 7b4d8b3a3163f054c37fd1b646df7c4b ffffffffffffffffffffffffffffffff 1034 /Users/steve/dev/projects/xkcd/build/Release-iphoneos/xkcd.app/Info.plist
+00000000000000000000000000000000 083521df8e0b6b01c6711b0ab25ae538 ffffffffffffffffffffffffffffffff 485 /Users/steve/dev/projects/xkcd/build/Release-iphoneos/xkcd.app/ResourceRules.plist
+00000000000000000000000000000000 518a8e58bf701cb4dbb8213cbda16d22 ffffffffffffffffffffffffffffffff 0 /Users/steve/dev/projects/xkcd/build/xkcd.build/Release-iphoneos/xkcd.build/com.apple.build-tools.platform.validate
+00000000000000000000000000000000 1b071fd42fbbc4b64d9b99f7f3717dcc ffffffffffffffffffffffffffffffff 7229 /Users/steve/dev/projects/xkcd/build/Release-iphoneos/xkcd.app/embedded.mobileprovision
+7b4d8b3a3163f054c37fd1b646df7c4b 94af3bf848149d7a3edf0ae48ae21d79 ffffffffffffffffffffffffffffffff 414 /Users/steve/dev/projects/xkcd/build/xkcd.build/Release-iphoneos/xkcd.build/xkcd.xcent
